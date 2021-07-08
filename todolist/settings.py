@@ -25,7 +25,7 @@ SECRET_KEY = '8f+av3%svtzjqp0gc+!z-7$ydd+_@v2j+738g#p*lq632jj!rh'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['todoweb-app.eba-5khpuvud.us-east-2.elasticbeanstalk.com']
+ALLOWED_HOSTS = ['todowebapp-env.eba-j2trpm4f.us-east-1.elasticbeanstalk.com']
 
 
 # Application definition
